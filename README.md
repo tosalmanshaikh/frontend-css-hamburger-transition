@@ -17,7 +17,7 @@ Je gaat het eerder gemaakte hamburger menu annimeren, door de hamburger te veran
 5. Tevens mag het bovenste balkje naar beneden draaien en het onderste balkje naar beneden.
 
 ## Antwoorden en gratis tips
-Dit is een EdHub opdracht om je te helpen oefenen met de stof. Ben je vastgelopen? Kijk dan eerst even bij de volgende tips. Mocht het dan nog steeds niet lukken, kun je altijd een kijkje nemen bij de antwoorden in dezelfde repository, op de branch [uitwerkingen](https://github.com/hogeschoolnovi/frontend-css-hamburger-animation/blob/uitwerkingen/styles.css).
+Dit is een EdHub opdracht om je te helpen oefenen met de stof. Ben je vastgelopen? Kijk dan eerst even bij de volgende tips. Mocht het dan nog steeds niet lukken, kun je altijd een kijkje nemen bij de antwoorden in dezelfde repository, op de branch [uitwerkingen](https://github.com/hogeschoolnovi/frontend-css-hamburger-transition/blob/uitwerkingen/styles.css).
 
 - *Tip bij stap **3***: haal de margin van het `#menu` element weg en vervang het door padding op het `#container` element
 - *Tip bij stap **4***: focus je eerst op de begin- en eindstaat voor je je bezig houdt met transities. Het begin is een zichtbaar balkje. Het eind is een onzichtbaar balkje.
